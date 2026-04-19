@@ -12,4 +12,6 @@ The implementations are based largely on the descriptions provided in the textbo
 stats.ipynb contains the necessary code to produce the figures and statistics in the write up. 
 The primary dependancies are cvxpy and numpy 
 
-As is, the implementation uses the default cvxpy solvers, however it can easily be modified to use a proprietary solver of ones choice
+As is, the implementation uses the default cvxpy solvers, however it can easily be modified to use a solver of ones choice.
+
+The test instances used in the write up can be downloaded from https://resources.mpi-inf.mpg.de/departments/d1/projects/benchmarks/UflLib/Euklid.html
